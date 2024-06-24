@@ -1,5 +1,18 @@
 ORA
 
+0.97
+
+ - No changes, just a recompile of JAR and moving project to github
+
+0.96
+
+ - MnHebi takes over updating the mod
+ 
+BUGFIXES/IMPROVEMENTS:
+ - Fixed Invocation Launcher missing EMP damage values.
+ - Replaced deprecated colony administrator skills with ones from IndEvo if that mod is active, otherwise only Industrial Planning is given to ORA administrators.
+ - Adjusted faction hull chances to match current Starsector standard.
+
 0.95
 
 BALANCING:
