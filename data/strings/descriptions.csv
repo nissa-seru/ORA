@@ -1,0 +1,488 @@
+id,type,text1,text2,text3,notes
+,,,,,
+,,,,,
+# WEAPONS WEAPONS WEAPONS
+,,,,,
+,,,,,
+,,,,,
+#CHOIR
+,,,,,
+,,,,,
+,,,,,
+ora_choir,WEAPON," A longer ranged Ion Cannon, fine-tuned to effectively disrupt both the warhead's fuse and the engine of hostile missiles. Given the inherent distrust of beam weaponry from the Third Assembly, they chose to purchase all rights to produce this somewhat obsolete point defense weapon system. The rebranded and slightly modernized design is still quite adequate in most situations, if underwhelming against strike-crafts. In particular it excels at disabling the warhead of heavy torpedoes, a critical quality against the enemies of the Haven Fleet.",Point Defense,,
+,,,,,
+,,,,,
+,,,,,
+#LITANY
+,,,,,
+,,,,,
+,,,,,
+ora_litany,WEAPON," Little known offshoot of the blaster branch of weaponry, the Litany saw scant use before the Great Collapse. Despite featuring an impressive range and damage potential for such a small energy weapon, the inherent inaccuracy of the bolts and the low sustained fire-rate drove away most potential buyers.
+
+ At its core, the Litany functions exactly like a conventional blaster, but its smaller generator cannot create the same strong magnetic containment field. As a result some plasma leaks through during its flight to the target, altering the trajectory of the projectile. Additionally, the limited space for capacitors and cooling systems greatly limit the number of shots that can be fired in a single burst.",Close Support,,
+,,,,,
+,,,,,
+,,,,,
+#RECITAL
+,,,,,
+,,,,,
+,,,,,
+ora_recital,WEAPON," A rapid fire plasma weapon using the residual heat from the previous shot to generate the following one. Which translates to an increasing rate of fire as the plasma doesn't take as much time to form, and a more flux efficient weapon during longer bursts.
+
+ A weapon design that failed to meet it's initial design goal: creating a much more flux efficient pulse laser weapon. Even after the longest bursts the assembly can sustain without melting, the overall flux efficiency barely equals that of more conventional energy weapons. On the other hand, this is a weapon able to throw a lot of bolts down range in a very short amount of time provided the operator do not let go off the trigger. Overall retired as a quirky IR Pulse Laser knock-off, the blueprint found a new home in the hands of the Third Assembly that was able to buy the production rights for cheap.",Assault,,
+,,,,,
+,,,,,
+,,,,,
+#ANIMUS
+,,,,,
+,,,,,
+,,,,,
+ora_animus,WEAPON," Short ranged but deadly, the Animus Blaster is quite an extensive modification upon the oldest open-source blueprints of the first generation Anti-Matter Blaster weapon. Thanks to the larger turret chassis, a magnetically sealed vacuum conduit can feed the weapon directly from the ship's protected fuel reserves. This eliminates the need for self contained, and quite dangerous to store, antimatter shells. This weapon is usually used as a trump card against enemies getting too close rather than as a main damage dealer.",Strike,,
+,,,,,
+,,,,,
+,,,,,
+#ESCHEWAL
+,,,,,
+,,,,,
+,,,,,
+ora_eschewal,WEAPON," A licensed modification of the ubiquitous Heavy Blaster. Using a secondary magnetic containment field on the plasma bolts maintains the integrity of the projectile for far longer, dramatically improving range. This however drastically limits the muzzle velocity of the weapon. Furthermore the inherent distortions of the additional containment tends to reduce the accuracy at long-range. Despite these limitations, the Eschewal Projector excels at constant stand-off pressure, a role not filled by more common energy weapons.",Fire Support,,
+,,,,,
+,,,,,
+,,,,,
+#ECHOES
+,,,,,
+,,,,,
+,,,,,
+ora_echoes,WEAPON," A heavy ion blaster trading EMP damage for more versatility. This peculiar weapon can be used both as a decent support artillery able to shut down an enemy ship, or as a very potent Point defense against both light crafts and missiles. The ability to fire through matter and disrupt many targets at once make it particularly efficient against swarming targets. Beware, this weapons does not make any distinction between enemy and friendly missiles.",Fire Support,,
+,,,,,
+,,,,,
+,,,,,
+#PRAYER
+,,,,,
+,,,,,
+,,,,,
+ora_prayer,WEAPON," A saturation rocket launcher with limited reloading capacity. It was designed to put a lot of pressure on the enemy early on to engage in battle on a favorable ground, although some intended quirks makes it less than ideal in modern engagements. The Third Assembly needed weapons specialized to deal with the diffuse and shadowy nature of the Great Enemy, for that they deliberately lowered the accuracy of their missiles tracking capabilities so that they tend to disperse and hit a whole area instead of a focused point. While regular ship armor will have an easier time defeating multiple hits from Prayer rockets, the confusion they cause in point defense systems is still very much valuable.",Fire Support,,
+,,,,,
+,,,,,
+,,,,,
+#INVOCATION
+,,,,,
+,,,,,
+,,,,,
+ora_invocation,WEAPON," Combining a phased first stage, limited tracking across long distances and a wide detonation radius, this weapon could be considered the be–all and end–all of warfare. Only held back by ludicrous installation requirements and flux generation upon firing, the limited copies of the Invocation Launcher blueprint makes it avidly sought after by military institutions and weapon collectors alike.
+
+ Applying phase technology to projectiles was the next big push in weapons research during the last days of the Domain. Only a few designs are rumored to have been successfully tested, and a furious bidding war opposed various corporations for their exclusive rights. Bent on preventing such technology from falling into the Great Enemy's ""hands"", the Third Assembly invested a significant portion of its resources into purchasing those early devices. After combining the best traits of multiple designs into a single weapon, the Third Assembly constructed a handful of Invocation Launchers to equip their flagship and then jealously kept the unique UAC on-board, in the very same room as Master Maal's stasis tube.",Fire Support,,
+,,,,,
+,,,,,
+,,,,,
+#SEMPITERNAL
+,,,,,
+,,,,,
+,,,,,
+ora_sempiternal,WEAPON," A weapon designed to punish any light craft that approaches closely to the Alliance's ships. Given the vulnerability of the Third Assembly's warships to nimble frigates able to evade their artillery fire, they commissioned Fabrique Orbitale for a short-range area denial solution. They came up with this Sempiternal Repeater design, able to project an impressive amount of energy at a target albeit with limited armor penetration. This is an extremely niche weapon, but one that sometimes finds deadly use in the right hands.
+
+ While somewhat comparable in use to the Autopulse Laser, the two devices actually have little in common in terms of technology. The Sempiternal Repeater generates a magnetically confined plasma orb maintained in place outside of the weapon's housing to reduce the cooling system requirements. Every few moments the confinement is shut off for a fraction of a second, leaving star-hot plasma outside of the field. Then using the same principle as a rail gun, this ionised plasma is shaved off through Lorentz forces and projected forward. The low mass of the projectile allows it to almost instantly attain extreme speeds.
+
+ Energy collectors around the plasma core makes this weapon surprisingly self sufficient energy-wise, but the bombardment of high energy protons from the intermittent confinement rapidly turns any shielding red hot, limiting the efficiency of the super-cooled magnetic coils. As such the flux production of the weapon rapidly rises during sustained bursts. In addition, the initial creation of the plasma orb takes a few seconds before the device is ready to fire.",Assault,,
+,,,,,
+,,,,,
+,,,,,
+#CALLING
+,,,,,
+,,,,,
+,,,,,
+ora_calling,WEAPON," A crude solution to the vulnerability problem of the early plasma/orb type of projectile: the Calling Scatterer multiplied the parallel launchers to oppose too many targets to the enemy defenses and ensure at least some hits per volleys. When not actively firing, the intrinsic flux dissipation of the weapon's shielding can be used to power a clamped Choir Emitter and help with PD duties.
+
+ An early incarnation of the Invocation Launcher already had perfected the guided projectiles technology but without the phased part. As such those plasma orbs were easy targets for PD weapons and the confinement field was easily disrupted, leading to an early release of the charge. The first solution attempted was to crudely assemble more launchers to multiply the potential target, to the point where the enemy's defenses would crumble. Overheating issues and radiation contaminations started to rise with so many barely understood reactions occurring in close proximity, leading to a sharp reduction of the nominal output of the emitters as well as the installation of reinforced dissipators. This resulted in a not useless, but somewhat underwhelming weapon. 
+ 
+ A first attempt as improving the design aimed to make use of the inherent passive dissipation of the radiation shielding to increase the flux efficiency of the weapon. This completely failed as this flux dissipation propriety vanishes when the weapon is actually in use and the shielding is bombarded by radiations. A second idea was to link the weapon to the flux grid with a reversible circuit, but the maintenance overhead, the reduction in turn rate and the fragility of such link was deemed prohibitive.
+ 
+ Finally, the engineers settled on the installation of a case-mate on top of the chassis armed with a Choir Emitter. While the weapon is not in use, this secondary weapon can use the extra passive dissipation to help with PD duties without taxing the flux grid in any way.",Assault,,
+,,,,,
+,,,,,
+,,,,,
+#INCANTATION
+,,,,,
+,,,,,
+,,,,,
+ora_incantation,WEAPON," A twin beefed up Plasma Cannon core modified for producing even more potent discharges, albeit at the cost of any semblance of a sustained fire-rate or accuracy. 
+
+ By generating a thicker, more stable containment field, this sibling of the Plasma Cannon produces orbs with much greater destructive power and a longer lifetime. Strong enough to have a significant area of effect upon detonation instead of the punctual effect of the regular Plasma micro-verse. However, that desirable propriety is significantly offset by the requirement for a milder impulsion as to not prematurely destabilize the brane field, leading to a slow and difficult to aim projectile.
+ 
+ Another engineering trouble that had to be overcome was the heightened operational temperature at the core of the weapon, an issue that additional active cooling could not solve due to the lack of available space to install a mesh of Flux capillaries. The somewhat costly but effective solution found was to on the contrary lower the fire-rate to the point that a lot of the inner cooling systems could be removed, thus significantly reducing the volume of the weapon. Two generator cores could then be installed in parallel, sharing the same power bus and turret structure.",Artillery,,
+,,,,,
+,,,,,
+,,,,,
+# FIGHTER WEAPONS
+
+
+ora_callingFighter,WEAPON," A crude solution to the vulnerability problem of the early plasma/orb type of projectile: the Calling Scatterer multiplied the parallel launchers to oppose too many targets to the enemy defenses and ensure at least some hits per volleys.",Assault,,
+ora_eschewalFighter,WEAPON," A licensed modification of the ubiquitous Heavy Blaster. Using a secondary magnetic containment field on the plasma bolts maintains the integrity of the projectile for far longer, dramatically improving range. This however drastically limits the muzzle velocity of the weapon. Furthermore the inherent distortions of the additional containment tends to reduce the accuracy at long-range. Despite these limitations, the Eschewal Projector excels at constant stand-off pressure, a role not filled by more common energy weapons.",Fire Support,,
+ora_AMbomb,WEAPON," Launchew an armored containement unit housing a slingle AM shell that is launched from a crude magnetic rail-gun. The payload includes gyroscopic attitude controles but not sensor to avoid jamming or disruption post launch: the whole firing sequence is programmed right before the release.",Strike,,
+,,,,,
+,,,,,
+,,,,,
+# SHIPS SHIPS SHIPS
+,,,,,
+,,,,,
+,,,,,
+# FIGHTERS FIGHTERS FIGHTERS
+,,,,,
+,,,,,
+,,,,,
+ora_fervor,SHIP," The Fervor-class gunship is a tough, dependable and very expensive fighter design, able to handle both escort and assault missions with consistent results. Built from frigate components, they are difficult and expensive to maintain but at the same time have a solid track record for survivability, making them deceptively economical past the initial acquisition cost.",,,
+,,,,,
+,,,,,
+,,,,,
+ora_allure,SHIP," The Allure-class bomber carries a quadruple payload of Antimatter bombs, and for that it is hated with a passion by most captains that had to face this type of strikecraft. Beyond that hightly unstable loadout, the overall ship is broadly similar to its cousin the Fervor-class Gunship. Despite the use of a common core of components, they are significantly more expensive to build and maintain.",,,
+,,,,,
+,,,,,
+,,,,,
+ora_wisdom,SHIP," As far as fast interceptors go, the Wisdom-class packs a reasonable punch. And it is fortunate because that is also the only thing this craft has going for itself compared to more conventional fighters. The iconic bulky profile of this Assembly design is perfect to catch every stray bullet, but the light frame lacks the armor to weather them out. Being shield-less, this makes for an explosive combination... Quite literally in fact. Plans to convert them into remote controlled fighters are in motion but have yet to pan out.",,,
+,,,,,
+,,,,,
+,,,,,
+ora_awareness,SHIP," The Awareness strike bomber can deliver a fearsome amount of ordnance against preferably larger targets: The inherent innacuracy of the Calling Scatterer is only made worse by the straffing speed of a strikecraft compared to the cruisers and Capital ships these weapons are usually mounted on. It the salvo connects however, the effect is nothing short of devastating. The very nature of the loadout makes the Awareness just as effective at bringing a target's shields down as damaging their hull.",,,
+,,,,,
+,,,,,
+,,,,,
+# FRIGATES FRIGATES FRIGATES
+,,,,,
+,,,,,
+,,,,,
+ora_bliss,SHIP," While the Bliss-class does not have an impressive armament even for a frigate, that is because it has been built for survivability first. The Third Assembly commissioned the Ko Combine corporation, known for their outside the box thinking, to build a line of frigates meant to harass and distract larger ships while being able to survive the worst of front-line combat.",,,
+,,,,,
+,,,,,
+,,,,,
+ora_mirth,SHIP," Hammer to the anvil that is the Bliss-class, Mirth captains can enjoy overdriven weapons to obliterate their enemies at close range with antimatter, or alternatively keep them at a distance while pummelling their shield with long-range artillery fire thanks to a versatile medium mount.",,,
+,,,,,
+,,,,,
+,,,,,
+ora_ascension,SHIP," High-end and rarely seen skirmisher, the Ascension-class frigate is regarded as a risky ship to deploy. The higher cost of production and maintenance does not correlate with either an increased survivability or an exceptional kill ratio. What it does correlate with however is an improved fleet efficiency. By themselves the Ascensions are only marginally more dangerous than other frigates. In fleets however their system allows them to herd the enemy formation, helping their allies to maintain an ideal position. They can also use their heightened manoeuverability to successfully duel larger opponents, although over-extending is the overwhelming cause of Ascension-class losses.",,,
+,,,,,
+,,,,,
+,,,,,
+# DESTROYERS DESTROYERS DESTROYERS
+,,,,,
+,,,,,
+,,,,,
+ora_communion,SHIP," An oversized destroyer carrier class that is well known for its ability to manage more fighters than most other designs, but bringing nothing else of note into battle. Not fast enough to avoid interception, this ship requires constant monitoring and escort to keep servicing its wings safely.",,,
+,,,,,
+,,,,,
+,,,,,
+ora_harmony,SHIP," While already reasonably armed, this destroyer class can sometimes duel even larger opponents provided their captain cleverly uses the Plasma Burn ship system. The Harmony possesses a simple hull structure and well organized interior layout making them easy to mass produce, and their iconic silhouette is not out of place anywhere in the Outer Rim.",,,
+,,,,,
+,,,,,
+,,,,,
+ora_sanctuary,SHIP," Extremely versatile thanks to a plethora of turret emplacements, the Sanctuary-class destroyer makes up for its lack of heavy weaponry by having an extra layer of armor, as well as the ability to launch a wing of fighters for cover. Often used as a command center and a pivot to anchor an enemy fleet while other ships maneuver around their defenses.",,,
+,,,,,
+,,,,,
+,,,,,
+ora_grace,SHIP," A compact destroyer designed to present little weakness against any type of opponent. While competent in offense, their uniform 360 degrees weapon coverage makes them well suited for escort duties in fleets operation, or to distract multiple opponents at once.  The Solid State Capacitors system makes them deceptively resilient if used at the right time.",,,
+,,,,,
+,,,,,
+,,,,,
+
+,,,,,
+,,,,,
+,,,,,
+# CRUISERS CRUISERS CRUISERS
+,,,,,
+,,,,,
+,,,,,
+ora_felicity,SHIP," A disproportionately large cruiser carrier class, meant to support the largest strike-force possible for the minimum amount of resources. Well defended, if lacking in terms of destructive capabilities. This vessel can open deadly opportunities for its fighter complement by enhancing the damage they can deal to a given target.",,,
+,,,,,
+,,,,,
+,,,,,
+ora_beatitude,SHIP," A nimble cruiser, blessed with a strong battery of guns and able to quickly switch between targets thanks to its secondary thruster system. A well maneuvered phalanx of Beatitude-class cruisers can keep at bay a much heavier force, as demonstrated by Admiral Johnson during the Camillia operation. Deployed sooner rather than later to suppress any hint of dissent, they acquired the reputation of being invoked just by pronouncing their name three times.",,,
+,,,,,
+,,,,,
+,,,,,
+ora_revelation,SHIP," Substantially armed and well shielded, the Revelation-class cruisers were designed as rapid-response heavy weapons platforms. Despite having reasonable maintenance requirements, their limited out-of-battle capacities restrict their usage to well supplied fleets. The hull also features a Solid State Capacitors system allowing them to exchange fire with an enemy at a very favorable flux ratio for a short time.",,,
+,,,,,
+,,,,,
+,,,,,
+ora_elevation,SHIP," With their front loaded layout, the Elevation-class cruisers certainly are an oddity among ORA's ships. Designed and used as long range scouts, they can operate in solo for extended periods of time ahead of their fleet. Should their main armament prove too limited against large enemies, they can then count on their flight deck to provide them with additional fighter support.",,,
+,,,,,
+,,,,,
+,,,,,
+
+,,,,,
+,,,,,
+,,,,,
+# CAPITAL-SHIPS CAPITAL-SHIPS CAPITAL-SHIPS
+,,,,,
+,,,,,
+,,,,,
+ora_enlightenment,SHIP," Built to be as much as a statement of power as a tool of war, the original Enlightenment displayed an impressive weapon array, a stunning livery, and a bill that would have given nightmares to any planetary governor. Meant as the last citadel of defense against the Great Enemy, this ship combined every technological advantage money could buy at the time. To the extend that every console is equipped with a behavior monitoring chip used to shield the operator from the influence of the Hive Mind, as well as to steel their resolve.
+
+ At the very center of the original ship lies Master Maal's stasis chamber, head of the Third Assembly. It is unknown whether she still lives or not as the stasis tube is completely autonomous and, according to the archives of the ship, can only be opened by her close councillors (none of which made it to the Haven Fleet before the Collapse). Despite being out of reach, many crew members have reported occasionally hearing her voice through their implants, and all of the beta AIs managing the ship also seem to share the same too self-conscious personality. The Alliance's engineers assessed unanimously that such reports are simply impossible and blamed them on the imagination of the crew.
+ 
+ Since its rediscovery by the Outer Rim Alliance, several sister models have been built, two of them defending their secondary systems, the rest heading humanitarian forces.",,,
+,,,,,
+,,,,,
+,,,,,
+ora_discernment,SHIP," Where the Enlightenment-class was the Knight in shining armor of the Third Assembly of Toban, the Discernment-class strategic carrier was their whole regiment of archers in and of itself. Able to deploy an inordinate amount of strike-crafts, a warship of this class alone can tip the odds of a large battle. Deployed in numbers they would have been able to firmly hold a system against anything but a Doomsday invasion fleet. And even then, they would have been a challenging adversary to beat. Unfortunately for the Assembly, buying more than one of these mighty vessels was slightly out of the depth of even their pockets.
+
+ Despite being slightly less technologically advanced than the Enlightement-class, the numerous fighter autofactories included in the design makes this ship disproportionately expensive to build, maintain and deploy. And for that reason, only a handful of models have been built since the re-discovery of the Haven fleet. Beyond that however, both ships have a lot in common, and maybe it is not a suprise if they work so well in tandem.",,,
+,,,,,
+,,,,,
+,,,,,
+
+,,,,,
+,,,,,
+,,,,,
+# PLANETS PLANETS PLANETS
+,,,,,
+,,,,,
+,,,,,
+ora_godunovStar,CUSTOM," At first glance a common G2 main sequence star, but what the initial survey missed was the 200.000 cycle long activity period culminating with intense corona instabilities and solar flares. Sadly for the nearby colony of Poincaré, the Great Collapse prevented them from evacuating the planet and they had to suffer through increasingly catastrophic climate changes. As their orbital industry fell to the intense radiation, the inhabitants were left with no tools to slow down the decay of their infrastructure.",,,
+,,,,,
+,,,,,
+,,,,,
+ora_homeworld,CUSTOM," Birthplace of the Outer Rim Alliance and still to this day its capital. Poincaré was in rough shape when the Haven Fleet appeared, with its population falling rapidly as the desert storms engulfed large swathes of farming land. Fortunately for the survivors, the new holders of the fleet were quite eager to help them, and a mutually beneficial deal was struck in a matter of hours. The refugees from the fleet were allowed to settle on the planet while their Spore-ship was to stabilize and improve Poincaré's climate.
+
+ A few decades of intense efforts later, the planet was lush with vegetation again. Even the broken nano forge that caused the crisis had been brought back online. With their local space now devoid of pirates due to the presence of the fleet, the government started to expand its industrial base to the other planets of the system.
+
+ Such a fairy tale quickly drew the attention of nearby troubled star systems, and as they called for help the Outer Rim Alliance was born.",," The three solar shades and a plethora of satellites in orbit of the planet are closely monitoring its surface conditions. While the star's activity cycle is on the decline, nobody wants to see Poincaré's situation worsen ever again. Being the bread-basket world of the Outer Rim Alliance, the surface presents little of the usual industrial scars of a capital planet, as most of its industrial production is handled by Devaney station. Strangers are only allowed for a limited time on the ground, unless they desire to join the Alliance of course.",
+,,,,,
+,,,,,
+,,,,,
+ora_marble,CUSTOM," One of the founding members of the Outer Rim Alliance, Marble was not in nearly as dire of shape as Poincaré when the first Humanitarian Force arrived, but was still struggling to maintain a working economy and attract trade. Most of their resources were spent fighting cold acid rains destroying their crops and corroding their machinery. Additionally the system was infested by pirates and it took several cycles of effort from the Alliance's Navy to destroy all of their hidden bases in the star system.
+
+ Nowadays it is still a cold place to live in, but the Spore-ship's drones have almost purged the atmosphere of its sulfur vapors. In less than ten cycles, the ecosystem should finally be stable and the terraforming station will be sent to the next planet in need of assistance.",," The planet's vegetation is almost exclusively composed of lichens. Vast ranges of blueish quilted moss, while comfortable to walk on, also emanate a pungent scent of decomposing organic matter. The planet used to be well known for its rich wildlife of flying predators and all ranges of small rodent-like species. But decades of acid rain decimated the predators' population while the ground species, partially protected under the surface, survived relatively unharmed. Biologists believe that the improving climate will lead to a population explosion, and that new predators must be introduced soon. 
+ 
+ The local air-space authorities control all traffic from their unique astroport still in service, the others having been deemed unsafe and abandoned cycles ago.",
+,,,,,
+,,,,,
+,,,,,
+ora_3bodies,CUSTOM," Frozen, unstable and remote, this planet seems to be of little interest. Yet it is dotted by abandoned survey stations. The reasons for their presence has been lost to the sands of time since the Great Collapse, but one can assume there is something to find there. Thus, and despite properly extreme conditions, there is always a small population on the ground scavenging or trying to understand what made this planet so interesting to the Domain.",," There is no traffic control here, only a couple of transponders marking the position of a few scavenger groups. Your comms officer directs your attention to the only location with an approach beacon to land your shuttle.",
+,,,,,
+,,,,,
+,,,,,
+ora_amethyst,CUSTOM," A battered moon of average size. Despite orbiting somewhat close to the planet it is not yet tidally locked, probably as the result of a late capture. It used to be inhabited but the population has been evacuated to Marble right after the formation of the Alliance, its infrastructure decommissioned and scrapped for raw materials to kick-start the restoration efforts on the planet. Usually such a place would attract scavengers trying to find leftovers but the recycling teams were so thorough they left behind little more than concrete foundations.",," If it was not for the scant few roads and the flat concrete circles that once were the foundation of domed cities, no one could ever tell this moon was colonized at some point.",
+,,,,,
+,,,,,
+,,,,,
+ora_jade,CUSTOM," With a surface gravity of 9.7G, this is a titan among telluric planets, so massive that even the atmosphere has been pulled to the ground. As such it is quite uninhabitable and would not be practical to exploit. By chance however it is constantly hit by high speed asteroids falling from the belt into its deep gravity well. This permanent barrage has created a thin mist of icy particles in orbit close to the surface that is quite easy to capture with simple nano-tube nets.",,"Despite the frequent asteroid impacts the planet presents an incredibly smooth surface, the result of the extreme gravity and the thick ice coverage. If the ship's sensors were not enough, nav beacons start blaring warnings through the comms. Scanning the surface reveals a few crash sites buried deep under the ice sheet, probably smugglers that tried to outrun patrols by trying to slingshot themselves ahead but were pulled to the ground instead from the tidal variations of the gavitic well.",
+,,,,,
+,,,,,
+,,,,,
+ora_asteroid,CUSTOM," A small planetoid born from the collision of several smaller asteroids. There are hundreds of such objects in the belt however this particular one seems to have been used as an improvized mooring location at some point in time.",,"There is little to learn or scavenge from the barebones docking boom as it is entirely manually operated and there is nothing else on this rock. It was probably used to transfer contraband between smugglers.",
+,,,,,
+,,,,,
+,,,,,
+ora_cache1,CUSTOM," A sizeable planetoid born from the collision of several smaller asteroids. There are hundreds of such objects in the belt however the scanners reveal that this particular one seems to have an extensive structure buried in one of its craters.",,"Despite a pair of emergency lights still running the structure stays silent to your hails. Self evident signs of battle seem to explain the lack of even an automated response, but the search light also reveals the silhouette of two ships still docked. The piratey red livery of the bifurcated half of a Lasher hull floating inside the underground docking bay adds one more piece to the puzzle.",
+,,,,,
+,,,,,
+,,,,,
+ora_cache2,CUSTOM," A sizeable planetoid born from the collision of several smaller asteroids. There are hundreds of such objects in the belt however the scanners reveal that this particular one seems to have a sizeable structure buried in one of its craters.",,"The structure seems intact but there is no response, not even an automated one, to your hails. High-resolution scans show that all of the airlocks have been opened on both sides. As far as you can tell, the habitats have been voluntarily vented and given the absence of heat source the main reactor must have been shut down as well.",
+,,,,,
+,,,,,
+,,,,,
+ora_cache3,CUSTOM," A sizeable planetoid born from the collision of several smaller asteroids. There are hundreds of such objects in the belt however the scanners reveal that this particular one seems to have a structure buried in one of its craters.",,"As it approaches the cavernous dock, your ship passes through the remains of a debris cloud. The structure appears to be in relatively good shape, if it was not for those two melted craters in the middle, probably caused by a high power antimatter weapon. Among the heterogeneous bits scattered all over the surface of the planetoid your scans detect the grim silhouettes of mummified bodies. One of the docking ports powers up its backup generator and stands ready for your ship.",
+,,,,,
+,,,,,
+,,,,,
+ora_chindi,CUSTOM," One of the founding members of the Outer Rim Alliance, Chindi's society was suffering from the unintended consequences of their own attempts at improving their situation. Trying to gain some independence from the irreplaceable Domain technology, they built gigantic dams on the largest river of their arid world for energy production and water management. Those structures impoverished the soils downstream, crippling their farming production in a few decades. Destroying a few barely improved the situation and they ended up with an energy crisis on top of the food shortages.
+
+ These days Chindi is still waiting for the Spore-ship to finish to stabilize Malachite's biosphere to finally get their issues properly dealt with. While they do receive tools and resources to rebuild and maintain their farmlands, most of the labor is done by workers rather than automated drones, and the climate does nothing to help. As such, nearly two thirds of the populations integrated to the Alliance since its foundation have been displaced here. While it first exacerbated the food shortage issues, the situation has gradually improved since. However with now more than half the population being first generation immigrants the situation is somewhat tense. 
+ 
+ The older Chindii are upset that the Alliance is not sending their terraforming station and that their rich culture has been almost completely diluted due to the massive influx of foreigners (even if they are glad those same immigrants saved their planet). Additionally the immigrants themselves feel cheated by the Alliances' promises of a better life on Poincaré when for many it actually barely improved when they were sent here instead.",," The planet's climate being quite dry, most settlements concentrate on the borders of the few rivers, where most of the farming is done. The only major city outside the valley region is the astroport installed in the Quraqua mountains, along the geothermal foundries. Despite some unrest, the ever improving situation as well as the planned beginning of the proper terraforming operations in less than ten cycles keep the population relatively compliant.",
+,,,,,
+,,,,,
+,,,,,
+ora_spin,CUSTOM," Spin used to be inhabited in the early days of the Sector, but the harsh climate and the thin atmosphere forced its population out to Chindi after the Great Collapse. For some reason lost to the cycles it became an almost sacred place for the locals, and the decision by the Alliance to reopen some limited exploitation there somewhat upset them. The main purpose of the unique settlement on the surface is to compensate for the lack of an orbital station by providing low gravity docking facilities for the significant transfers with the planet. This location is also valued for its use as a recycling center where all the pieces of dismantled stations and industrial machinery taken from the abandoned colonies are repurposed for the reconstruction efforts.",," If it was not for the unique astroport visible from space, the surface would look completely unspoiled. Years of sand storms completely erased all traces of the previous settlements. Only the massive wind-screens around the city protect it from being submerged. Thin dust particles carried over by the atmosphere tint every single building in a uniform depressing ocher.",
+,,,,,
+,,,,,
+,,,,,
+ora_omale,CUSTOM," A harsh world extremely rich in natural resources, so much so that the Alliance could not just ignore it. The difficult environment and risky mining work makes it the worst place in the Alliance to live in, with the lowest life expectancy due to water contamination, air toxicity and the occasional accident. As such, the planet is inhabited by an explosive mix of dissidents sent here for punishment and desperate people that took the Alliance's offer of ten cycles of hardship in the mines in exchange for a spot on the comparatively heavenly Poincaré.",," To say that the surface conditions are tough would be an euphemism. The planet was never intended to be colonized and the intense industrial exploitation of its resources made things even worse. The water has to be imported, the atmosphere is thick with toxic chemicals and the entire crust is unstable leading to frequent mine collapses. Despite that there are people willing to immigrate: the Alliance made labor on this colony the quickest and easiest way for empty-handed outsiders to become a citizen, or to gain a better situation within the Alliance.",
+,,,,,
+,,,,,
+,,,,,
+ora_janus,CUSTOM," Formerly a mostly automated gas mining outpost with some light manufacturing industries, Janus' population started to grow after the Collapse as people fled from the worsening conditions on Omale. While far from a tourist hotspot, it was still a better proposal to the other affordable in-system options at the time. Especially with Chindi keeping a tight lid on immigration while dealing with their own problems. Things then slowly deteriorated there too as the technological break-down of the system got more pronounced, and Janus government was on the verge of reaching for the Alliance when they recieved an offer of assistance from the Hegemony. It was the kind of offer they had to take. Period.
+
+ Then in a few decades of incremental ""frog in a kettle"" constitutional adjustment, Janus turned into an official Hegemonic vassal state; A move that political experts noted as ""convenient"" for the Hegemony: They put a (small) check into the Alliance territory growth, and they gained a forward base right in the Persean League's backyard. Overall a pretty good bargain.",," If it wasn't for The Carb dust clouds, Janus could have been a lovely place to live on: On the outer part of Valis' habitable zone, a comfortable 0.89g surface gravity, some properly stunning mountaineous vistaes... But with 14% of the star's energy being filtered out by the ring, Janus falls squarely into the barely habitable category. With the climate being too cold for prolonged exposure to the elements, yet not cold enough to warrant completely enclosed settlements, Janii developed a burning passion for hot beverages of all origins, always looking for the recipe of the perfect comforting hot cup.",
+,,,,,
+,,,,,
+,,,,,
+ora_tschai,CUSTOM," A few cycles after Chindi, Malachite and Poincaré formed the Outer Rim Alliance, the Tschai colony expressed their desire to join. Already stretched thin in their reconstruction efforts during these early years, the Alliance could not afford starting yet another large scale project. However they could very much use more manpower and they proposed to displace the entire population to Chindi. While their situation was relatively stable, the inhabitants of Tschai were always under the threat of a catastrophic impact from the numerous asteroids orbiting Deepsix. They accepted the offer and in the next twenty cycles the couple hundred thousands of Tschaii and every single bit of usable machinery they had was transported across the system.
+
+ A bit later, the Church of Ludd showed their interest in recolonizing the planet. While they disproved some of their methods, the Church could not deny the Alliance was a positive force in the region and always maintained a if not friendly, at least warm relationship with them. When the Church asked them to establish a limited outpost in their territory, the Alliance saw there a golden opportunity to strengthen their relations and attract more trade.",," Despite the difficult climate, the Church exploits a small but rich farmland region a significant distance from the equator where most of the asteroids impact. Deepsix being in the early stages of becoming a red giant, the plants receive plenty of UVs to grow and if all goes well the planet could become once again an important food producer in the region.",
+,,,,,
+,,,,,
+,,,,,
+ora_cureus,CUSTOM," A rare example of a large telluric planet orbiting extremely close to its star. So close in fact that it tends to shave the projections of its exosphere, thus giving the system its name. Unsurprisingly it is tidally locked and with the inordinate amount of radiation it receives, the crust never cools on its exposed face. Additionally its mass and fast revolution speed prevented most bodies in the system from keeping stable orbits. Through eons they collided again and again, leading to a system mainly composed of very few oversized planets and almost no asteroid belts left.",,"",
+,,,,,
+,,,,,
+,,,,,
+ora_camillia,CUSTOM," The most recent planet to join the Outer Rim Alliance. Camillia was suffering from decades of war between the Regular Government and the Lazian Liberation Movement. Militarily deadlocked and with an increasingly restless population, the planet was about to fall into chaos when General Lazia decided unilaterally to call the Alliance for help. Given that the O.R.A.'s modus operandi is to evacuate all the industrial base of a planet with the totality its population to their core worlds, this decision did not sit well with a large portion of the Camillians. After some civil demonstrations and even a military showdown that saw both the Camillian Loyal Navy and the Lazian Fleet beaten, the decision to proceed with the evacuation was voted for in a referendum with a razor thin margin, amidst accusations of manipulations by every side involved. 
+
+ Nowadays the evacuation is almost complete and the Alliance has pulled most of its resources from the planet. A number of inhabitants are still waiting for their transfer to the core worlds, however the recovery teams did not wait to send all the industrial equipment of the planet off-world. They now have to sustain on protein bars distributed by the astroport's office and live in shanty towns inside the abandoned ship berths. With the Alliance security mostly gone, traffickers and small time gangs resituated here, as well as a small population of new settlers coming from even worse off places.",," A large portion of the planet is covered by water, but with the ground being rich in sodium and iron, no land flora ever developed. The oceans however are rich in algae and krill. Most of the planet's economy revolved around coastal cities exploiting the mobile islands of seaweed. The evacuation of the population nearing completion, only one astroport is still being serviced.",
+,,,,,
+,,,,,
+,,,,,
+ora_satiate,CUSTOM," While possessing a relatively hospitable environment for the Sector, Satiate's political climate is clearly not as rosy. For tens of cycles the planet has only been independent in name only, while pirate cartels completely ruled over the puppet government. Corruption was the norm, shakedowns were the taxes and gangs were the police forces. Things radically changed when the Marlow twins took control of the Casaba family, the largest pirate entity on the planet. They quickly overturned the traditions and redirected the attention of the pirates to the commerce of other star systems. With their contacts from outside of their space, they reopened trade lines to the core worlds, transforming their own into a central hub of the global gray market and a safe haven for anyone. While maintaining an iron fist on the more unruly population, the twins earned the respect of their people and now lead an almost legitimate government.",," Satiate is a relatively comfortable world to live on, by the Sector's standards: Despite a strong seasonal cycle the temperatures are quite agreeable near the equator and the biosphere is lush with indigenous life. The wealth that the renowned gray market brings to the economy allows for much better infrastructure and social safety net than one could expect from a semi-pirate world.",
+,,,,,
+,,,,,
+,,,,,
+ora_suffering,CUSTOM," An old colony that transitioned to piracy to survive in the very early days after the Great Collapse. Centuries of mismanagement, clans wars and overall lack of maintenance lead to the collapse of most of the infrastructure. The only industry left is the Volatiles complex even though it now almost entirely relies on manual labor. The planet somewhat benefited from the improving situation on Satiate, but it is still far from a thriving colony.",," It should be no surprise that this place appears to in shambles. Dilapidated industrial complexes, decrepit habitats, docks falling apart, the colony reads like the textbook result of the collapse of a government.",
+,,,,,
+,,,,,
+,,,,,
+ora_ailment,CUSTOM," One of the earliest colonies evacuated by the Outer Rim Alliance. Fed up by the constant pirate racket operations and failing to attract any form of trade the entire population voted unanimously to leave their barely habitable world. The intense friction between the local gangs and the Humanitarian Fleet during the swift evacuation are rumored to be the cause of the hatred the O.R.A. bears toward pirates. The planet has never been recolonised since. With most of the industrial base removed and no precious resources to exploit, there was little incentive to do so.",,,
+,,,,,
+,,,,,
+,,,,,
+
+,,,,,
+,,,,,
+,,,,,
+# SHIP-SYSTEMS SHIP-SYSTEMS SHIP-SYSTEMS
+,,,,,
+,,,,,
+,,,,,
+ora_attitude,SHIP_SYSTEM,"Activates attitude thrusters to greatly enhance the turning speed of the ship while also marginally raising its top speed. Has several charges that can be used in quick succession.",Movement,"Boosts the turn rate of a ship for a brief moment and marginally raises its top speed.",
+,,,,,
+,,,,,
+,,,,,
+ora_teleporter,SHIP_SYSTEM,"The ship instantly teleports to any desired nearby location. Longer than average range but has limited charges.",Movement,"The ship instantly teleports to any desired nearby location. Longer than average range but has limited charges.",
+,,,,,
+,,,,,
+,,,,,
+ora_solid,SHIP_SYSTEM,"Redirect all flux to special super-cooled solid flux capacitors. Converts all flux into a third as much Hard flux while active. Shield strength tripled as well.",Defense,"Converts all flux into a third as much Hard flux while active. Shield strength tripled as well.",
+,,,,,
+,,,,,
+,,,,,
+ora_fortressshield,SHIP_SYSTEM,"Redirects all power from the weapon systems to shields, greatly increasing the efficiency at which damage is absorbed. This process generates hard flux at a steady rate even if the shields are not taking any fire. Limited charges.",Defensive,"Reduces the damage taken by shields to a minimum, but generates hard flux while active. Has limited charges.",
+,,,,,
+,,,,,
+,,,,,
+ora_longRange,SHIP_SYSTEM,"Extends the roaming range of the carried fighter wings for a short while.",Support,"Extends the roaming range of the carried fighter wings for a short while.",
+,,,,,
+,,,,,
+,,,,,
+ora_emp,SHIP_SYSTEM,"Creates a single long range EMP arc.",Offensive,"Creates a single long range EMP arc.",
+,,,,,
+,,,,,
+,,,,,
+ora_newton,SHIP_SYSTEM,"Transfer some of the inertia of the ship to nearby hostile, improving its own maneuverability at the expense of the enemy's. Slightly affects the perception of the flow of time in the process.",Movement,"Increase the ship's maneuverability at the expense of the nearby enemy's. Also affects the perception of time.",
+,,,,,
+,,,,,
+,,,,,
+ora_drone_sensor,SHIP_SYSTEM,Deploys a pair of drones whose on-board sensors improve the ship's weapon and sensor range. Each drone is also armed with an ion cannon.,Drones (high tech),Deploys a pair of drones that improve the ship's weapon and sensor range. Each drone is also armed with an ion cannon.,
+,,,,,
+,,,,,
+,,,,,
+ora_coordination,SHIP_SYSTEM,"By temporarily slaving the computers of nearby ships to an overclocked sub-gamma core, this system is able to temporarily increase their combat efficiency. However the link has to be short range, and the system cannot be kept online for long as it technically burns a core with each use.",Support,"Increases the CR of nearby ships and fighters by 30 points for a short while.",
+,,,,,
+,,,,,
+,,,,,
+# COMMODITY COMMODITY COMMODITY
+,,,,,
+,,,,,
+,,,,,
+
+,,,,,
+,,,,,
+,,,,,
+# MARKETS MARKETS MARKETS
+,,,,,
+,,,,,
+,,,,,
+ora_pendulum,CUSTOM," The first foray of the newly founded Outer Rim Alliance in reopening their home system's abandoned exploitations. The Pendulum outpost started small, but given the strategic location and the abundance of resources nearby it quickly grew into a secondary trade hub for the system, as well as the first line of defense against the then frequent pirate incursions. 
+ 
+ The station presents a sharp dichotomy between its side already renovated and the third still inhabitable. Despite presenting a raw unpainted metal shine, the finished sections are a sight to behold and the people living in the habitation modules can add the stunning view of the twin giants on top of that. It will take around five cycles for the complex to be completely restored but the facility can already provide ample services to any ship stopping by.",,"You are still distant from the station when flight control contacts your comm officer. In addition to the regular commerce traffic, the industrial transit and the wormhole activity, they have to manage the ever-changing movements around the restoration operation. The edge between the rehabilitated part and the dillapided one is swarmed by assembly bots, workers in power suits and small utility crafts zipping around to deliver tools and construction materials. Visibly keen to avoid any accident they ask you to keep within a strict approach path.",
+,,,,,
+,,,,,
+,,,,,
+ora_devaney,CUSTOM," Devaney station was initially a massive industrial complex destined to be the central powerhouse of the sub-sector. After the Great Collapse however, between dwindling resources, improper maintenance and the intense cyclic activity of the star, the station broke down into a state of disarray. Then came the Haven Fleet, and as the Outer Rim Alliance was forged, the station's main nano forge could be reactivated. 
+
+ However large sections of the complex were too far gone, looted for parts to maintain the more critical systems or the infrastructure on the ground. Whith its core modules now repaired it is able to provide an industrial base for the growing Alliance, but it is also unlikely to ever rise to its former glory again. Since the departure of the Alliance's Spore-ship to assist other star systems, the rest of the abandoned areas are progressively rehabilitated into docks to manage the relentlessly increasing trade volume attracted to the Outer Rim and transiting by the de facto capital.",," While being nearly as large as Jangala station in Corvus, only half of the station's volume is currently habitable. In particularly bad shape, the old habitation districts have been hit by one of the modules that broke off and punched through several superstructure bulkheads. 
+ 
+ The inhabited sections however are as clean and orderly as it gets. Well lit and well maintained they beg the tired trader to stop for a while. Rings of docks encircle the station at regular intervals, each of them having a few sections reserved for the Alliances Navy's colorful ships. Moored at the tip of the station like a jewel, the original Enlightenment-class flagship and its solid phalanx of twenty four cruiser escorts stands ever vigilant.",
+,,,,,
+,,,,,
+,,,,,
+ora_spore,CUSTOM," Midway between an Ark ship and a full blown orbital station, Spore-ships were some of the largest mobile structures ever built by the Domain. This particular one has been bought by the Third Assembly of Toban cult before the great Collapse in an attempt to build a new home for their members. Isolated in the Sector before its crew could reach it, it has since been reclaimed by the soon-to-be Outer Rim Alliance and became the cornerstone of their political and economical philosophy. While only having a fraction of the capacity of its former self after a century spent offline, the ship's massive auto-factories, green-houses, refineries and bio-engineering facilities can still revert some of the worse effects of the Collapse. As such, and given how irreplaceable it is, nearly half a million of trusted Alliance members live there, taking extreme care of its maintenance as well as guarding it against any threat with two generously sized navy battle-groups.",," The space around the Spore-ship is as busy as it gets, with spacecraft herded in strict navigation paths by a plethora of military vessels, all gun-ports open. As much as the Alliance would like to keep outsiders away from their precious mobile station, they simply cannot satiate the continuously hungry factories by themselves. Its only when the vessels approach closely that the scale of the Alliance's efforts can be appreciated: The sheer size of the complex dwarfs even the largest known battleship classes by several orders of magnitude, and a continuous ribbon of cargo drones stream in and out of the main industrial dock to deliver raw material from the Alliance's refineries or terraforming machinery to the surface.",
+,,,,,
+,,,,,
+,,,,,
+ora_refinery,CUSTOM," According to the system's info-sphere this abandoned station is to be towed to Marble and used as the core of a new orbital dock there once the Spore-ship has finished its restoration operation and must depart. Most of what could be moved elsewhere has been cleaned out long before the Alliance even existed, which would explain their meagre interest in this place so far. In the meantime, a tiny population of dissidents refusing the rule of the Alliance lives here, trading a few scraps for food from whoever docks. Patrols periodically comb the station, officially to repatriate them to Marble, but it is likely more to just check the numbers of the population and scare off prospecting pirates.",,"The station appears to be in shambles, but one reactor must still be active since a docking arm responded to your ship's automatic enquiries and turned on the emergency approach beacons.",
+,,,,,
+,,,,,
+,,,,,
+ora_iceCollector,CUSTOM," A relatively small and heavily automated station that collects ice from Jade's orbital mist using nano tube nets hundreds of kilometers long. This sole station provides almost all the water supplies required by the terraforming efforts of the Alliance. Its short revolution cycle time makes it somewhat tricky to reach for heavy cargo ships but that velocity can also be used to slingshot the loaded ones back to the Spore-ship with little expense.",," In orbit just above the mist field, the station almost seems to be floating on clouds. The near invisible nets falling into the mist on the underside are dotted with flashing beacons to warn ships from the danger. As a result the entire picture has an eerily magical feel to it.",
+,,,,,
+,,,,,
+,,,,,
+ora_relay,CUSTOM," Of this ore conditioning center only the skeleton and a handful of modules remains. The gigantic structure has been entirely consumed to feed the early reconstruction efforts on Chindi and Spin, and what remains will probably be gone soon enough. Most of the population has been displaced to Omale, at their great displeasure given that a large portion of them had worked hard to get off the planet.",," At fist glance no one could tell that the remaining parts of the station could contain breathable levels of atmosphere, the gigantic corroded spine of the station barely holding together. But a couple of automatic docking booms still replied to your ship's hails. The few ship-breaking crews left on site don't seem to mind you, but their presence probably means there is little left to loot here.",
+,,,,,
+,,,,,
+,,,,,
+ora_lumen,CUSTOM," While not exactly ""hidden"", the Lum'en Factory is shrouded in a veil of rumors. Only the most trusted Alliance insiders can get access to the station and even fewer are aware of its true purpose. The remote location is especially puzzling when both Omale and Chindi could have used an orbital spaceport. Some of the rumors say that the old reconditioning station that was in orbit of Omale was not actually scrapped to assist the planets but instead to build this remote facility.",," While modest in size, the station looks extremely well maintained and actually shines despite the surrounding dust particles. The design is very peculiar: Coriolis gravity rings are not exactly unheard of, but they are also cumbersome and considered an anachronism. It is true however that they provide a very reliable and stable artificial gravity, useful for precision manufacturing. Security skiffs comb the area in tight formation and it is unlikely that anyone could slip through undetected. The docks seems filled with military ships, all wearing Alliance colors. ",
+,,,,,
+,,,,,
+,,,,,
+ora_dock,CUSTOM," Being in the late stage of integrating Camillia's population and industry to their core worlds, the Alliance presence in the system is limited to this partially decommissioned and scrapped station. As soon as the remaining inhabitants are gone, the last usable modules will be towed away and the system will be left open for the taking. The dwindling transfer capacities of the dock is the reason why there are still people left on the ground: only a hundred or so can be hosted at a time for the monthly shuttle to pick up. At this rate, the evacuation will take a few cycle to be completed. A skeleton division of destroyers keep pirates at bay but rarely venture to the outer system these days.",," As the outer-most and more modern modules have already been removed, the station looks much older than it should. Corrosion erased all markings and it is hard to guess what was their original purpose was but at least the navigation lights are still coded the same way.",
+,,,,,
+,,,,,
+,,,,,
+ora_haunted,CUSTOM," A small unsuspecting station that changed hands many, many times since the collapse. What is surprising is that it never was taken by force, neither it was abandoned due to an engineering breakdown. In fact every time the local population left by itself because it could no longer stand living there. Sometimes Independent, sometimes under Hegemonic, Luddic, Persean or even pirate control, everyone from military juggernaughts to lone sceptic opportunists tried to claim the station for themselves. Currently under Tri-tachyon rule, it is mostly maintained by robots helmed by a high-turnover skeleton crew.",,"The effect of this place on its inhabitants is well documented: the longer you stay on the station, the more uncomfortable everything becomes to the point one can no longer even sleep and has to leave. However the reason for this phenomenon still eludes scientists. Currently some hypothesis include permanent nausea caused by micro gravitic waves from Cureus rapid orbital period perturbing the inner ear liquids. Others posit the possibility of constant faint migraines provoked by a combination of the unstable star lighting affecting sleep patterns and some adverse effect from the planet's radiations. 
+
+ All in all, the local folklore has this station haunted and this explanation is currently as good as any other. Due to the ever changing population, the station has been dubbed ""Shuffle"", it's original name being irrelevant given the history of this place. While you have heard of this station's reputation, nothing troubles your approach to the docking bay. If it was not for the higher percentage of drones in the maintenance teams, even for a Tri-tachyon station, you could have been anywhere in the sector.
+ 
+ The deck crew is slightly quieter than usual, as everyone wonder if, or when, they will be affected by Shuffle's curse.",
+,,,,,
+,,,,,
+,,,,,
+ora_portia,CUSTOM," Formerly the main military base of the system, the station also was the first to be abandoned when the planet Camillia joined the Alliance. The remote location as well as the low orbit around Rittenhouse made it impractical to completely dismantle it, but that did not prevent the recovery teams from thoroughly emptying the station. While driven out of the system at the peak of the evacuation efforts, pirates quickly invested into it now that the Alliance navy only patrol the inner system.",,,
+,,,,,
+,,,,,
+,,,,,
+ora_caretaker,CUSTOM," The old pirate stronghold before Camillia joined the Alliance. Previously the two major opposing camps of the planet had the habit of dispatching corsairs to disrupt each other's commerce. Many of these captains naturally found their way to this base where most of those decided that the free life of a pirate was decidedly more interesting than the one in the military. However things radically changed once the Alliance Navy came, starving them of easy preys . The base was barraged by artillery fire several times in the following cycles and most of the pirates had to flee to other systems. The ones remaining are the most resilient or the most desperate, the entire station fell into chaos and anarchy as the major gangs left. Even now as the patrols get rarer, few pirates came back due to the bleak reputation of the station.",,,
+,,,,,
+,,,,,
+,,,,,
+ora_fortress,CUSTOM," A well known but rarely attacked defensive keep, Reverie is one of the oldest pirate citadels in the region. The base has a rich and colorful history that the inhabitants love to tell tales of, each time with some new juicy details. It is however pretty certain that without it, the pirates could never have held such a firm grip upon the system.",," Formerly a fortified exploitation center situated deep into the Iron Belt, the base has been continuously reinforced with additional armor and bulkheads while being expanded over the years by the various Pirate Lords of the system. The asteroids themselves provide ample protection against long range bombardment, as well as an unlimited supply of materials for repairs.",
+,,,,,
+,,,,,
+,,,,,
+ora_listeningpost,CUSTOM," This League station is a recent addition to the star system. Installed here less to hunt pirates and more to keep an eye on the rising influence of the Outer Rim Alliance in the region. As such the structure is more or less barebones, with limited storage capacity, housing and refitting facilities. Being assigned here is viewed as a mild punishment by League officers, and a test of resolve given the... Corrupting nature of the system.",," The station is much smaller than one might expect, to assist in keeping its affiliation low-key. No huge blazon painted onto the hull, no propaganda broadcast, only transmitting their id to ships requesting docking clearance, they take the role of ""listening"" post very seriously.",
+,,,,,
+,,,,,
+,,,,,
+ora_famine,CUSTOM," Orbiting mega-city, trade center and port, heavy traffic swarms the station at all times. The disparaged modules of the station tell the story of a troubled world during even more troubled times.",,"Formed of a vast tiered structure, the station can only be described as ""cosmopolitan"". All manners of different modules have been built, towed or stolen from across the Sector and welded to the ever growing mass of this chimera. The recent stabilization of the political situation lead to a rapid rise in real estate prices and some rather luxurious habitat sections started to appear.",
+,,,,,
+,,,,,
+,,,,,
+
+,,,,,
+,,,,,
+,,,,,
+# FACTION FACTION FACTION
+,,,,,
+,,,,,
+,,,,,
+ORA,FACTION," One hundred cycles before the Great Collapse, Diana Maal received a vision. She foresaw the end of the Domain, frozen to death in an eternal night at the hand of the Great Enemy, a shapeless shadow able to extinguish even a star's light. She foresaw traitors opening critical vulnerabilities in the Domain's defenses, whose weak minds had been corrupted by the terrible Will of the Enemy. Horrified by such an omen, Diana Maal decided to found an order of knights to defend the Domain and steer it away from its own demise. 
+
+ Fifty cycles later, the Third Assembly of Toban was a vast organization millions of souls strong and well established in dozens of core Domain worlds. Despite this, Master Maal was growing increasingly frustrated by the lack of concern from the various governing bodies, and their disdain for their impending doom. During the thirty third plenary session of the High Knights, she declared the Domain of Man unsalvageable, and that its fate shall not be altered. From then on the Third Assembly was to concentrate its resources into building a new future for Humanity, away from the Domain, free from the weak minded and the corrupt.
+
+ With a nigh unlimited budget from donations by wealthy members, the Third Assembly commissioned a fleet of ships specially designed to face the Great Enemy. They also purchased a decommissioned Spore-ship to create a new home for their benefactors and dozens of old cryo arks to bring them there. For many cycles they used their deep influence and well placed believers to shield their activities from the watchful eye of the Domain, and were able to gather a massive armada in a remote sector, unnoticed... After five decades of preparing their forces, and as the date of the End Time loomed, the Regency council decided to activate the exodus. Just when liners scattered in the Domain to gather the Faithful, the Great Collapse occurred.
+ 
+ None of them made it to the Haven Fleet.
+ 
+ It was not until cycle 73 post Collapse that a small group of refugees from the Alatar system stumbled upon the slumbering hulls. Delighted by their luck after fleeing the Hegemonic fist as it drafted every able body in the region for their never ending wars, the refugees managed to reactivate the ships without much trouble. Their good fortune did not stop there: while the revived Haven Fleet was looking for a place to settle in, they heard of a nearby system in trouble and looking for help. 
+ 
+ The planet Poincaré in the Godunov system had seen half its pre-collapse population die of starvation after their star activity increased and their planet's climate became increasingly hostile. In addition to that, the intense radiation caused malfunctions in their nano forge, sealing their future. With their Spore-ship, the refugees were able to undo the worst of the damage and somewhat restore the biosphere of this world. Welcomed as saviors by the Poincarians, the two populations quickly merged and together started to rebuild the rest of the infrastructure of the system.
+ 
+ Between their strong fleet scaring off pirates and their burgeoning industry, the Godunov system became an oasis of prosperity when compared to the tumultuous Sector. This fairy tale quickly drew the attention of nearby colonies in trouble. As calls for help started to reach them, the Poincarians responded. In exchange for help, they would recruit members in the population to assist the next star system, and open privileged trade relations. Thus, the Outer Rim Alliance was born.
+ 
+ It however quickly became obvious that the Alliance could not spread it efforts across too many worlds and expect to improve the situation everywhere. After all their one-of-a-kind Spore-ship was only partially functional after a century spend offline, and could only be present in one place at a time. The decision was then made that rather than revitalize smaller outposts, their population was to be displaced to the two (then three) core worlds of the Alliance. And doing so the humanitarian expedition could then take every piece of hardware from the abandoned colonies, stripping them clean of anything that could be used, repurposed or recycled on their homeworld. Of course the corollary of such decision was that nobody could be left behind, and the few opposing leaving their home had to bow to the will of the majority.
+ 
+ It was during Cycle 167 post-collapse that the Outer Rim Alliance faced its first crisis during a humanitarian operation. The Camillia system was on the verge of civil war when one party called the Alliance for help. They naturally failed to mention that some of the population would not agree with their forced exodus when agreeing to let the fleet take all the movable infrastructure off the planet. In the spirit of fairness Commander Johnson decided to let the population to decide through a referendum. Both sides being far from unanimous, resentment rose during the month leading to the vote. The leave camp won with a razor thin margin, and despite the heavy suspicions of fraud, Johnson decided to proceed with the agreement. This did not sit well with the Remain camp, some of which took arms against what they perceived as an invasion. Despite taking over part of the Camillian Navy, they were swiftly defeated and the evacuation was completed within schedule.
+ 
+ Nowadays, the Outer Rim Alliance is mostly well respected in their cluster. As the driving force of the local economy they kindled decent relations with their neighbors and while they do not hide their distrust of imperialistic factions like the Hegemony, they do not intend to take action against them either. Unless forced to.",,,
+,,,,,
+,,,,,
+,,,,,

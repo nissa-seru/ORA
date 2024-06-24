@@ -1,0 +1,65 @@
+{
+    "displayName": "Assault",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "ora_sanctuary",
+    "hullMods": [
+        "safetyoverrides",
+        "hardened_subsystems"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "ora_sanctuary_assault",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "ora_recital"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0004": "ora_recital"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "ora_recital",
+                "WS0015": "ora_recital"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0006": "ora_recital",
+                "WS0016": "ora_recital"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0007": "swarmer",
+                "WS0008": "swarmer",
+                "WS0009": "swarmer",
+                "WS0010": "swarmer",
+                "WS0011": "swarmer",
+                "WS0012": "swarmer",
+                "WS0013": "swarmer",
+                "WS0014": "swarmer"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "ora_choir",
+                "WS0003": "ora_choir"
+            }
+        }
+    ],
+    "wings": []
+}

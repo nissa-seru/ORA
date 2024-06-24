@@ -1,0 +1,48 @@
+{
+    "displayName": "Pulse",
+    "fluxCapacitors": 10,
+    "fluxVents": 20,
+    "goalVariant": true,
+    "hullId": "ora_sanctuary",
+    "hullMods": [],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "ora_sanctuary_pulse",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0005": "irpulse",
+                "WS0007": "irpulse",
+                "WS0009": "irpulse",
+                "WS0011": "irpulse",
+                "WS0013": "irpulse",
+                "WS0015": "irpulse"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0006": "irpulse",
+                "WS0008": "irpulse",
+                "WS0010": "irpulse",
+                "WS0012": "irpulse",
+                "WS0014": "irpulse",
+                "WS0016": "irpulse"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "ora_choir",
+                "WS0002": "ora_choir",
+                "WS0003": "ora_choir",
+                "WS0004": "ora_choir"
+            }
+        }
+    ],
+    "wings": []
+}

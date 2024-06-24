@@ -1,0 +1,37 @@
+{
+    "displayName": "Blaster",
+    "fluxCapacitors": 0,
+    "fluxVents": 16,
+    "goalVariant": true,
+    "hullId": "ora_grace",
+    "hullMods": ["missleracks"],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "ora_grace_blaster",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "ora_prayer",
+                "WS0003": "ora_prayer",
+                "WS0004": "ora_prayer"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {"WS0002": "ora_prayer"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "ora_choir",
+                "WS0006": "ora_choir",
+                "WS0007": "ora_choir",
+                "WS0008": "ora_choir"
+            }
+        }
+    ]
+}

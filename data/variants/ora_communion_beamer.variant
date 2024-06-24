@@ -1,0 +1,24 @@
+{
+    "displayName": "Beamer",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "ora_communion",
+    "hullMods": [],
+    "permaMods": [],
+    "variantId": "ora_communion_beamer",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "LINKED",
+        "weapons": {
+            "WS0001": "ora_choir",
+            "WS0002": "ora_choir",
+            "WS0003": "ora_choir",
+            "WS0004": "ora_choir"
+        }
+    }],
+    "wings": [
+        "ora_allure_wing",
+        "ora_awareness_wing"
+    ]
+}
